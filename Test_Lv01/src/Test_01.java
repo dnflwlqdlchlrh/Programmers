@@ -1,5 +1,5 @@
 
-class Solution {
+class Solution1 {
 	    public int solution(String t, String p) {
 	    	
 	        int answer = 0;
@@ -20,7 +20,7 @@ class Solution {
 public class Test_01 {
 	
 	public static void main(String[] args) {
-		Solution result = new Solution();
+		Solution1 result = new Solution1();
 		
 		System.out.println(result.solution("3141592", "271"));
 	}
